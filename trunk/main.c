@@ -15,7 +15,8 @@
 *            chars i developed this little tool to generate them!
 *  License : GNU GPL v3
 *            http://www.gnu.org/licenses/gpl.txt
-*  Changes :
+*  Changes : Added to https://asciihl.googlecode.com/svn/trunk/
+*            Project Site: https://code.google.com/p/asciihl/
 *
 *******************************************************************************/
 #include <stdlib.h>
