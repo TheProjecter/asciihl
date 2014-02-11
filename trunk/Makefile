@@ -1,4 +1,4 @@
-
+# Makefile for asciihl
 CC=gcc
 CFLAGS=-std=c99 -g -Wall
 LFLAGS=
